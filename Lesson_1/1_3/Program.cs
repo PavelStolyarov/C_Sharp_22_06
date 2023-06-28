@@ -39,3 +39,4 @@ switch (a)
     default:
     Console.Write("Такого дня недели нет");
     break;
+}
